@@ -1,0 +1,9 @@
+app/.env
+.env
+*.env
+app/medecine.db
+*.db
+__pycache__/
+*.pyc
+.venv/
+venv/
